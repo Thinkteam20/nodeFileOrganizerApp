@@ -6,4 +6,4 @@ Node.js photo file organizer app
 App details
 
 - Node.js
-- terminal app
+- console app
